@@ -1,0 +1,2 @@
+sudo modprobe bcm2835-v4l2
+dev/video0を生み出す何か。なんなんこれ。
